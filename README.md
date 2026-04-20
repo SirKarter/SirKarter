@@ -14,8 +14,8 @@
 <h3 align="center">Data Scientist · Python · Machine Learning · Deep Learning</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<SirKarter>&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/<SirKarter>?tab=repositories"><img src="https://img.shields.io/badge/Projects-16-blue?style=flat&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SirKarter&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/SirKarter?tab=repositories"><img src="https://img.shields.io/badge/Projects-16-blue?style=flat&logo=github" /></a>
 </p>
 
 ---
@@ -74,13 +74,13 @@
       <h3>🏭 Прогноз температуры стали</h3>
       <p>Капстоун-проект: регрессия финальной температуры на металлургическом комбинате. Интеграция 7 источников, feature engineering, CatBoost.</p>
       <p><b>Стек:</b> pandas · CatBoost · scikit-learn · Plotly</p>
-      <a href="https://github.com/<SirKarter>/steel-temperature-prediction"><img src="https://img.shields.io/badge/repo-steel--temperature--prediction-181717?logo=github" /></a>
+      <a href="https://github.com/SirKarter/steel-temperature-prediction"><img src="https://img.shields.io/badge/repo-steel--temperature--prediction-181717?logo=github" /></a>
     </td>
     <td width="50%">
       <h3>💬 NLP-классификатор токсичных комментариев</h3>
       <p>Бинарная классификация комментариев по токсичности: TF-IDF, лемматизация NLTK, LightGBM. Целевая F1 ≥ 0.75.</p>
       <p><b>Стек:</b> NLTK · scikit-learn · LightGBM</p>
-      <a href="https://github.com/<SirKarter>/toxic-comments-nlp-classifier"><img src="https://img.shields.io/badge/repo-toxic--comments--nlp--classifier-181717?logo=github" /></a>
+      <a href="https://github.com/SirKarter/toxic-comments-nlp-classifier"><img src="https://img.shields.io/badge/repo-toxic--comments--nlp--classifier-181717?logo=github" /></a>
     </td>
   </tr>
   <tr>
@@ -88,13 +88,13 @@
       <h3>🚗 Оценка стоимости авто</h3>
       <p>Регрессия рыночной цены подержанных автомобилей: сравнение LightGBM, CatBoost и линейных моделей по RMSE и скорости.</p>
       <p><b>Стек:</b> pandas · LightGBM · CatBoost</p>
-      <a href="https://github.com/<SirKarter>/used-car-price-prediction"><img src="https://img.shields.io/badge/repo-used--car--price--prediction-181717?logo=github" /></a>
+      <a href="https://github.com/SirKarter/used-car-price-prediction"><img src="https://img.shields.io/badge/repo-used--car--price--prediction-181717?logo=github" /></a>
     </td>
     <td width="50%">
       <h3>📷 Оценка возраста по фото (CNN)</h3>
       <p>CNN-регрессия возраста покупателей: transfer learning ResNet50, аугментации, метрика MAE.</p>
       <p><b>Стек:</b> TensorFlow · Keras · ResNet50</p>
-      <a href="https://github.com/<SirKarter>/customer-age-estimation-cnn"><img src="https://img.shields.io/badge/repo-customer--age--estimation--cnn-181717?logo=github" /></a>
+      <a href="https://github.com/SirKarter/customer-age-estimation-cnn"><img src="https://img.shields.io/badge/repo-customer--age--estimation--cnn-181717?logo=github" /></a>
     </td>
   </tr>
   <tr>
@@ -102,13 +102,13 @@
       <h3>🏦 Отток клиентов банка</h3>
       <p>Несбалансированная классификация: class_weight, oversampling, undersampling; подбор порога вероятности; F1 = 0.63, ROC-AUC = 0.79.</p>
       <p><b>Стек:</b> scikit-learn · pandas · Random Forest</p>
-      <a href="https://github.com/<SirKarter>/bank-customer-churn-prediction"><img src="https://img.shields.io/badge/repo-bank--customer--churn--prediction-181717?logo=github" /></a>
+      <a href="https://github.com/SirKarter/bank-customer-churn-prediction"><img src="https://img.shields.io/badge/repo-bank--customer--churn--prediction-181717?logo=github" /></a>
     </td>
     <td width="50%">
       <h3>🛢 Выбор локации для скважин</h3>
       <p>Регрессия объёма запасов + Bootstrap-анализ прибыли и риска убытков для выбора оптимального региона.</p>
       <p><b>Стек:</b> scikit-learn · NumPy · Bootstrap</p>
-      <a href="https://github.com/<SirKarter>/oil-well-location-profit-analysis"><img src="https://img.shields.io/badge/repo-oil--well--location--profit--analysis-181717?logo=github" /></a>
+      <a href="https://github.com/SirKarter/oil-well-location-profit-analysis"><img src="https://img.shields.io/badge/repo-oil--well--location--profit--analysis-181717?logo=github" /></a>
     </td>
   </tr>
 </table>
@@ -117,35 +117,35 @@
 
 | № | Проект | Направление | Стек |
 |---|--------|-------------|------|
-| 1 | [music-streaming-user-behavior](https://github.com/<SirKarter>/music-streaming-user-behavior) | EDA пользовательского поведения | pandas |
-| 2 | [borrower-creditworthiness-analysis](https://github.com/<SirKarter>/borrower-creditworthiness-analysis) | Предобработка, категоризация | pandas |
-| 3 | [real-estate-market-analysis](https://github.com/<SirKarter>/real-estate-market-analysis) | Исследовательский анализ | pandas, matplotlib, seaborn |
-| 4 | [telecom-tariff-statistical-analysis](https://github.com/<SirKarter>/telecom-tariff-statistical-analysis) | Статистический анализ, проверка гипотез | pandas, scipy |
-| 5 | [video-game-market-research](https://github.com/<SirKarter>/video-game-market-research) | EDA, проверка гипотез | pandas, scipy, plotly |
-| 6 | [mobile-tariff-recommendation-classifier](https://github.com/<SirKarter>/mobile-tariff-recommendation-classifier) | Классификация | scikit-learn |
-| 7 | [bank-customer-churn-prediction](https://github.com/<SirKarter>/bank-customer-churn-prediction) | Несбалансированная классификация | scikit-learn |
-| 8 | [oil-well-location-profit-analysis](https://github.com/<SirKarter>/oil-well-location-profit-analysis) | Регрессия, Bootstrap | scikit-learn, NumPy |
-| 9 | [gold-recovery-efficiency-model](https://github.com/<SirKarter>/gold-recovery-efficiency-model) | Регрессия, метрика sMAPE | scikit-learn |
-| 10 | [personal-data-encryption-linear-algebra](https://github.com/<SirKarter>/personal-data-encryption-linear-algebra) | Линейная алгебра | NumPy, scikit-learn |
-| 11 | [used-car-price-prediction](https://github.com/<SirKarter>/used-car-price-prediction) | Градиентный бустинг | LightGBM, CatBoost |
-| 12 | [taxi-demand-timeseries-forecasting](https://github.com/<SirKarter>/taxi-demand-timeseries-forecasting) | Временные ряды | statsmodels, CatBoost |
-| 13 | [toxic-comments-nlp-classifier](https://github.com/<SirKarter>/toxic-comments-nlp-classifier) | NLP, TF-IDF | NLTK, LightGBM |
-| 14 | [computer-vision-deep-learning-tasks](https://github.com/<SirKarter>/computer-vision-deep-learning-tasks) | CNN, ResNet | TensorFlow, Keras |
-| 15 | [customer-age-estimation-cnn](https://github.com/<SirKarter>/customer-age-estimation-cnn) | CNN-регрессия, transfer learning | TensorFlow, Keras, ResNet50 |
-| 16 | [steel-temperature-prediction](https://github.com/<SirKarter>/steel-temperature-prediction) | Промышленная регрессия | CatBoost, scikit-learn |
-| 17 | [real-estate-mle-airflow-dvc](https://github.com/<SirKarter>/real-estate-mle-airflow-dvc) | **MLOps**: ETL + ML-пайплайн | Airflow, DVC, Docker, S3 |
+| 1 | [music-streaming-user-behavior](https://github.com/SirKarter/music-streaming-user-behavior) | EDA пользовательского поведения | pandas |
+| 2 | [borrower-creditworthiness-analysis](https://github.com/SirKarter/borrower-creditworthiness-analysis) | Предобработка, категоризация | pandas |
+| 3 | [real-estate-market-analysis](https://github.com/SirKarter/real-estate-market-analysis) | Исследовательский анализ | pandas, matplotlib, seaborn |
+| 4 | [telecom-tariff-statistical-analysis](https://github.com/SirKarter/telecom-tariff-statistical-analysis) | Статистический анализ, проверка гипотез | pandas, scipy |
+| 5 | [video-game-market-research](https://github.com/SirKarter/video-game-market-research) | EDA, проверка гипотез | pandas, scipy, plotly |
+| 6 | [mobile-tariff-recommendation-classifier](https://github.com/SirKarter/mobile-tariff-recommendation-classifier) | Классификация | scikit-learn |
+| 7 | [bank-customer-churn-prediction](https://github.com/SirKarter/bank-customer-churn-prediction) | Несбалансированная классификация | scikit-learn |
+| 8 | [oil-well-location-profit-analysis](https://github.com/SirKarter/oil-well-location-profit-analysis) | Регрессия, Bootstrap | scikit-learn, NumPy |
+| 9 | [gold-recovery-efficiency-model](https://github.com/SirKarter/gold-recovery-efficiency-model) | Регрессия, метрика sMAPE | scikit-learn |
+| 10 | [personal-data-encryption-linear-algebra](https://github.com/SirKarter/personal-data-encryption-linear-algebra) | Линейная алгебра | NumPy, scikit-learn |
+| 11 | [used-car-price-prediction](https://github.com/SirKarter/used-car-price-prediction) | Градиентный бустинг | LightGBM, CatBoost |
+| 12 | [taxi-demand-timeseries-forecasting](https://github.com/SirKarter/taxi-demand-timeseries-forecasting) | Временные ряды | statsmodels, CatBoost |
+| 13 | [toxic-comments-nlp-classifier](https://github.com/SirKarter/toxic-comments-nlp-classifier) | NLP, TF-IDF | NLTK, LightGBM |
+| 14 | [computer-vision-deep-learning-tasks](https://github.com/SirKarter/computer-vision-deep-learning-tasks) | CNN, ResNet | TensorFlow, Keras |
+| 15 | [customer-age-estimation-cnn](https://github.com/SirKarter/customer-age-estimation-cnn) | CNN-регрессия, transfer learning | TensorFlow, Keras, ResNet50 |
+| 16 | [steel-temperature-prediction](https://github.com/SirKarter/steel-temperature-prediction) | Промышленная регрессия | CatBoost, scikit-learn |
+| 17 | [real-estate-mle-airflow-dvc](https://github.com/SirKarter/real-estate-mle-airflow-dvc) | **MLOps**: ETL + ML-пайплайн | Airflow, DVC, Docker, S3 |
 
 ---
 
 ## 📊 GitHub-статистика
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=<SirKarter>&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SirKarter>&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SirKarter&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirKarter&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<SirKarter>&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirKarter&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -153,11 +153,15 @@
 ## 📫 Контакты
 
 <p>
-  <a href="mailto:anton.matyuha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Раскомментируй и подставь свои ссылки:
-  <a href="https://t.me/SirKarter"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anton-matyukha-43b75a2a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  -->
+  <a href="mailto:anton.matyuha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/SirKarter">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anton-matyukha-43b75a2a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center"><i>Открыт к интересным задачам и сотрудничеству.</i></p>
